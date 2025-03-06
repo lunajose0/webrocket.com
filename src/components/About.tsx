@@ -85,7 +85,7 @@ const About = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="text-center transform hover:-translate-y-2 transition-transform duration-300">
               <img 
-                src="image/trabajadores/yo.jpg" 
+                src="./image/trabajadores/yo.jpg" 
                 alt="Team Member" 
                 className="w-32 h-32 rounded-full mx-auto mb-4 object-cover shadow-sm"
               />

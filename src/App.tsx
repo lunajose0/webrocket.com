@@ -51,7 +51,7 @@ function App() {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
             <img src='./image/logo/1.jpg' className="h-8 w-8 rounded-full" />
-              <span className="ml-2 text-xl font-bold text-gray-800">WebSimple</span>
+              <span className="ml-2 text-xl font-bold text-gray-800">WebRocket</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <button

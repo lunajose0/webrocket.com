@@ -50,7 +50,7 @@ function App() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between h-16">
             <div className="flex items-center">
-            <img src='./components/image/logo/1.jpg' className="h-8 w-8 rounded-full" />
+            <img src='image/logo/1.jpg' className="h-8 w-8 rounded-full" />
               <span className="ml-2 text-xl font-bold text-gray-800">WebSimple</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
